@@ -1,0 +1,29 @@
+==================================================
+Catalogue of Astronomical Objects
+==================================================
+
+Stars
+
+|Name                |Type                |Dist (pc)           |App Mag             |Abs Mag             | Mass (Solar Masses)|   Var Period (days)|
+|               steve|           red giant|                 300|                   3|            -4.38561|                  15|                  50|
+|               steph|       main sequence|                 200|                   4|            -2.50515|                 1.7|                none|
+|             stanley|         white dwarf|                 550|                   9|            0.298187|                 0.6|                none|
+|               stacy|       main sequence|                 100|                   3|                  -2|                 1.2|                none|
+
+Planets
+
+|Name                |Type                |Dist (pc)           |App Mag             |Abs Mag             |Mass (Earth Masses) |Parent Star         |Orbital Period (yrs)|
+|            patricia|        hot juipiter|                 300|                  24|             16.6144|                 100|               steve|                 0.4
+|             patrick|         terrestrial|                 100|                  50|                  45|                 1.6|               stacy|                   2
+
+Galaxies
+
+|Name                |Type                |Dist (pc)           |App Mag             |Abs Mag             |Redshift (nm)       |Num Stars (billions)|R Velocity (km/s)   |H0 Disagreement (%) |
+|                gary|              spiral|               20000|                  20|             3.49485|                  65|                 250|                 1.5|             7.14286|
+|             georgia|          elliptical|               30000|                  22|             4.61439|                  77|                 300|                 1.2|            -42.8571|
+
+Nebulae
+
+|Name                |Type                |Dist (pc)           |App Mag             |Abs Mag             |Density 10^5atom/cm3|        Width (lyrs)|
+|              nellie|           planetary|                 520|                   8|           -0.580017|                 0.8|                   3|
+|                nina|                ring|                 800|                  18|             8.48455|                 0.2|                   6|
