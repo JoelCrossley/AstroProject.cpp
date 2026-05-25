@@ -1,0 +1,10 @@
+star,steve,red giant,300,3,15,50
+planet,patricia,hot juipiter,300,24,100,steve,0.4
+galaxy,gary,spiral,20000,20,65,250,1.5
+star,steph,main sequence,200,4,1.7,0
+nebula,nellie,planetary,520,8,0.8,3
+star,stanley,white dwarf,550,9,0.6,0
+star,stacy,main sequence,100,3,1.2,0
+galaxy,georgia,elliptical,30000,22,77,300,1.2
+planet,patrick,terrestrial,100,50,1.6,stacy,2
+nebula,nina,ring,800,18,0.2,6
